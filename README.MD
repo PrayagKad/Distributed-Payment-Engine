@@ -51,7 +51,7 @@ bank-transaction-system/
 │── README.md
 ⚙️ Setup & Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/bank-transaction-system.git
+git clone https://github.com/PrayagKad/Distributed-Payment-Engine.git
 cd bank-transaction-system
 2️⃣ Configure PostgreSQL Database
 
